@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently working at [Pipa Studios](https://www.pipastudios.com/en/)
-- I’m currently learning **Procedural Content Generation in Games**
+- I’m currently working at [Pipa Studios](https://www.pipastudios.com/en/).
+- I’m currently learning **Procedural Content Generation in Games**.
 - My CV is available at [Linkedin](https://www.linkedin.com/in/danilo-bezerra) and [Lattes Platform](http://lattes.cnpq.br/9708959963863536).
 - Check my publications at [Google Scholar](https://scholar.google.com/citations?user=7vEpE5cAAAAJ).
-- Contact me through danilobezerra@outlook.com.br or danilo.bezerra@ufabc.edu.br
+- Contact me through danilobezerra@outlook.com.br or danilo.bezerra@ufabc.edu.br.
